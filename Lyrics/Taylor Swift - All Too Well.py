@@ -22,7 +22,7 @@ def sing_song():
         ("Wind in my hair, I was there, I was there", 0.08),
         ("Down the stairs, I was there, I was there", 0.08),
         ("Sacred prayer, I was there, I was there", 0.09),
-        ("It was rare, you remember it all too well", 0.10),
+        ("It was rare, you remember it all too well...", 0.10),
     ]
     delays = [0.3, 6.4, 11.5, 16.5, 21.5]
     
