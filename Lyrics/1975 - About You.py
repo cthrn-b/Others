@@ -23,10 +23,10 @@ def sing_song():
         ("Do you think I have forgotten", 0.1),
         ("about you?", 0.2),
         ("There was something bout you that now I cant remember", 0.08),
-        ("Its the same damn thing that made my heart surrender", 0.1),
+        ("It's the same damn thing that made my heart surrender", 0.1),
         ("And I miss you on a train, I miss you in the morning", 0.1),
         ("I never know what to think about", 0.1),
-        ("I think about you~", 0.1)
+        ("I think about you...", 0.1)
     ]
     delays = [0.3, 5.0, 10.0, 15.0, 20.3, 25.0, 27.0, 30.2, 33.3]
     
