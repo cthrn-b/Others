@@ -19,7 +19,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("\n""And I don't know what I'm crying for", 0.11),
+        ("\nAnd I don't know what I'm crying for", 0.11),
         ("I don't think I could love you more", 0.11),
         ("It might not be long, but baby, I", 0.11),
         ("I'll love you 'til the day that I die", 0.08),
