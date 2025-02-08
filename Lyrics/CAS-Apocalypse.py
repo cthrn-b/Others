@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("\n""Got the music in you, baby", 0.09),
+        ("\nGot the music in you, baby", 0.09),
         ("Tell me why", 0.06),
         ("Got the music in you, baby", 0.09),
         ("Tell me why", 0.06),
