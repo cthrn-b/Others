@@ -1,4 +1,4 @@
-# 🎨🕹️🎶 Multi-Language Project (Python, HTML, CSS, JS)  
+# Multi-Language Project (Python, HTML, CSS, JS)  
 
 ## Overview  
 This repository contains various **web-based animations, Python scripts for visualizations, games, and music-related programs**.  
