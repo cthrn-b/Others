@@ -18,12 +18,12 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("\n""And if you like midnight driving with the windows down", 0.08),
+        ("\nAnd if you like midnight driving with the windows down", 0.08),
         ("And if you like going places we can't even pronounce", 0.08),
         ("If you like to do whatever you've been dreaming about", 0.08),
         ("Then baby, you're perfect", 0.05),
         ("Baby, you're perfect", 0.05),
-        ("So let's start right now""\n", 0.05),
+        ("So let's start right now...\n", 0.05),
     ]
     
     delays = [0.3, 5.2, 10.0, 15.0, 17.5, 19.5]
